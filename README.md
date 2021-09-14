@@ -1,8 +1,6 @@
 # pph-API
-API repository
-to run the project
-just do the below:
- -cp .env.example .env
- -update the env variable values
- -run npm start Or npm run dev
+API repository to run the project just do the below:<br/>
+ -cp .env.example .env<br/>
+ -update the env variable values<br/>
+ -run npm start Or npm run dev<br/>
  
